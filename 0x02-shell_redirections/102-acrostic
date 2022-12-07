@@ -1,2 +1,2 @@
 #!/bin/bash
-echo s (cut - c1 | tr -d "|n") 
+echo s (cut - cl | tr -d "|n") 
